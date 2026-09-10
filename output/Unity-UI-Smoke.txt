@@ -1,0 +1,2 @@
+Native Unity UI Toolkit home, game and result panels rendered at 390 x 844.
+2 root elements.

@@ -1,0 +1,14 @@
+Project: C:\SecondWindGames\Repositoires\Unity\W06
+Unity: 6000.3.23f1
+Identifier: com.secondwindgames.spacestation
+Backend: IL2CPP
+Architecture: ARM64
+Min SDK: 25
+Target SDK: AndroidApiLevelAuto
+Orientation: Portrait
+Splash: white, company logo 2 seconds, Unity logo hidden
+Minify release: True
+Development: False
+Release profile: AAB / LZ4HC / W01 keystore reference
+Prototype APK: temporary debug signing, settings restored afterwards
+Scene: Assets/SpaceStation/Scenes/Station.unity

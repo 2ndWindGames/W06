@@ -1,0 +1,16 @@
+PASS: 15 checks
+PASS Initial resources and fixed deck
+PASS All 12 reference turns: balances, points, delayed production, no early end
+PASS Save replay after every action
+PASS No thirteenth action or production
+PASS Cost, actor and revision validation without mutation
+PASS Action ID idempotency
+PASS Collection and production overflow
+PASS No duplicate facilities
+PASS Replacement and deck exhaustion
+PASS Same-deck restart with new run identity
+PASS Corrupted save rejected
+PASS Alternating round initiative
+PASS Score, completion and draw results
+PASS 200 complete seeded AI matches: legality, hidden-information isolation, resources, saves
+PASS Atomic disk save, resume and backup recovery
