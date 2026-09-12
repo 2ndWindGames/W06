@@ -1,0 +1,2 @@
+PASS
+6 native UI Toolkit captures at 1080x1920; real runtime UI; legal game states; no persistence writes.

@@ -18,3 +18,12 @@
 *.keystore
 *.jks
 *.log
+
+# Unity Android build outputs
+/.utmp/
+/*.apk
+/*.aab
+/*.symbols.zip
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_mapping.txt
+/output/*_mapping.txt

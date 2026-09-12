@@ -1,0 +1,24 @@
+Small station. Big journeys.
+Run a space supply station and help visiting ships prepare for their next voyage.
+
+Space Station Supply is a turn-based strategy game about managing scrap, energy, and water to fulfill ship orders. Collect resources, invest in production facilities, or complete a delivery. With one action per turn, every choice shapes your 12-turn plan.
+
+THREE RESOURCES, MANY DECISIONS
+Gather scrap, energy, and water to meet each order's requirements. Build a solar panel, water condenser, or recovery drone to produce resources from your next turn onward. Decide when to invest in your station and when to turn your supplies into trust points.
+
+SIX TYPES OF SHIP ORDERS
+Compare orders with different costs and rewards. Fulfill a ship's request when your resources are ready, or spend a turn replacing an order that does not fit your plan.
+
+PRACTICE AT YOUR OWN PACE
+Learn with the fixed deck or try a freshly shuffled deck. Earn at least 14 trust points by the end of turn 12 to complete your practice mission. Replay the same deck to explore a different strategy.
+
+COMPETE AGAINST LUMI AI
+Choose Easy or Normal difficulty and compete over two shared orders. Each player takes 12 actions, and the first player alternates each round. Time your deliveries before Lumi claims an opportunity.
+
+RESUME YOUR VOYAGE
+Your progress is saved after every action. Continue an unfinished game and review your resource use and deliveries in the turn history and results screen.
+
+PLAY OFFLINE
+Practice and AI matches work without an internet connection. Enjoy a portrait-mode strategy game without online matchmaking.
+
+The current in-game interface is in Korean.
